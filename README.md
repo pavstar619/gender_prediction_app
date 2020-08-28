@@ -7,3 +7,6 @@ This project was deployed using Flask which is a micro web framework in Python a
 
 <b>Deployed app:</b><br>
 https://gender-prediction-app1.herokuapp.com/
+
+<b>Run Heroku:</b><br>
+https://github.com/heroku/python-getting-started
